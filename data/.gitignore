@@ -1,0 +1,5 @@
+# Ignore all submissions
+*_submission.csv
+
+# Ignore final data
+*_final.csv

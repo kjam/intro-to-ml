@@ -1,0 +1,8 @@
+dataset
+eli5
+jupyter
+pandas
+scikit-learn
+tweepy
+yellowbrick
+xgboost
