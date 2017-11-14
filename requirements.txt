@@ -1,6 +1,7 @@
 dataset
 eli5
 jupyter
+matplotlib
 pandas
 scikit-learn
 tweepy

@@ -1,2 +1,4 @@
 *.pyc
 .ipynb*
+prod.cfg
+tweets.db
